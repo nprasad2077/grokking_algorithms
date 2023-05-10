@@ -1,1 +1,1 @@
-# grokking_algorithms
+# Grokking Algorithms Book Practice and Notes
